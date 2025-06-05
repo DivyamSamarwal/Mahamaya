@@ -1,6 +1,6 @@
-<p align="center">
+
  ![mahamaya](https://github.com/user-attachments/assets/090fdf44-8654-48f6-a467-d74b416ef45b)
-</p>
+
 
 [![Stars](https://img.shields.io/github/stars/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/stargazers)
 [![Forks](https://img.shields.io/github/forks/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/network)
