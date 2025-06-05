@@ -2,6 +2,7 @@
 [![Stars](https://img.shields.io/github/stars/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/stargazers)
 [![Forks](https://img.shields.io/github/forks/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/network)
 [![Issues](https://img.shields.io/github/issues/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/issues)
+[![License](https://img.shields.io/github/license/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/blob/main/LICENSE)
 ## 📁 Repository Structure
 
 ### 📊 Data Science & Analytics
