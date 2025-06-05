@@ -5,9 +5,6 @@
 [![Issues](https://img.shields.io/github/issues/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/issues)
 [![License](https://img.shields.io/github/license/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/blob/main/LICENSE)
 
-> *"Mahamaya"* - Sanskrit for "Great Illusion" - A curated collection of educational resources that unveils the deeper truths of knowledge across multiple domains.
-
-
 ## 📁 Repository Structure
 
 ### 📊 Data Science & Analytics
