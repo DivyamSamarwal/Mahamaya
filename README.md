@@ -112,12 +112,6 @@ Core computer science and programming references:
    cd Programming/
    ```
 
-3. **Access the Materials**
-   - All resources are in PDF format
-   - Can be viewed directly in your browser or downloaded
-   - Recommended to organize your own study notes alongside these materials
-
-
 ## 🔗 Related Resources
 
 - [MIT OpenCourseWare](https://ocw.mit.edu/) - Free online course materials
