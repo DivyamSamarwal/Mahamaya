@@ -1,7 +1,4 @@
-
- ![mahamaya](https://github.com/user-attachments/assets/090fdf44-8654-48f6-a467-d74b416ef45b)
-
-
+![mahamaya](https://github.com/user-attachments/assets/5f890ab5-be81-4318-bb38-c080e73cecec)
 [![Stars](https://img.shields.io/github/stars/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/stargazers)
 [![Forks](https://img.shields.io/github/forks/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/network)
 [![Issues](https://img.shields.io/github/issues/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/issues)
