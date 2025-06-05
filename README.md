@@ -1,5 +1,4 @@
-# Mahamaya 📚
-
+![mahamaya](https://github.com/user-attachments/assets/2864e764-019f-445b-b950-b7595b576020)
 [![Stars](https://img.shields.io/github/stars/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/stargazers)
 [![Forks](https://img.shields.io/github/forks/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/network)
 [![Issues](https://img.shields.io/github/issues/DivyamSamarwal/Mahamaya.svg)](https://github.com/DivyamSamarwal/Mahamaya/issues)
