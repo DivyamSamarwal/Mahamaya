@@ -8,9 +8,6 @@
 - [Platform Details](#platform-details)
 - [Selection Criteria](#selection-criteria)
 - [Benefits](#benefits)
-- [Who Should Use These Platforms?](#who-should-use-these-platforms)
-- [Conclusion](#conclusion)
-
 ---
 
 ## 🧠 Overview
