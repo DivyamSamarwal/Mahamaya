@@ -1,7 +1,4 @@
-# 🚀 Quantitative Finance Platforms Guide
-
-A curated overview of the top platforms for quantitative finance, designed to empower smart investing, algorithmic trading, and data-driven financial analysis.
-
+🚀 Quantitative Finance Platforms
 ---
 
 ## 📚 Table of Contents
